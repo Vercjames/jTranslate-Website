@@ -1,2 +1,2 @@
 # jTranslate Website
-The Website Application for jTranslate. 
+The Website Construction for jTranslate. 
